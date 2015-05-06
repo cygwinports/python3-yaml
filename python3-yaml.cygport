@@ -3,7 +3,7 @@ inherit python3-distutils
 
 NAME="python3-yaml"
 VERSION=3.11
-RELEASE=1
+RELEASE=2
 CATEGORY="Python"
 SUMMARY="Python3 LibYAML bindings"
 DESCRIPTION="PyYAML is YAML parser and emitter for Python, based on LibYAML."
